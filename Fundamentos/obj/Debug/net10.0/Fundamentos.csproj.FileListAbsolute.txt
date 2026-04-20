@@ -1,0 +1,14 @@
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\bin\Debug\net10.0\Fundamentos.exe
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\bin\Debug\net10.0\Fundamentos.deps.json
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\bin\Debug\net10.0\Fundamentos.runtimeconfig.json
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\bin\Debug\net10.0\Fundamentos.dll
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\bin\Debug\net10.0\Fundamentos.pdb
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\obj\Debug\net10.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\obj\Debug\net10.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\obj\Debug\net10.0\Fundamentos.AssemblyInfo.cs
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\obj\Debug\net10.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\obj\Debug\net10.0\Fundamentos.dll
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\obj\Debug\net10.0\refint\Fundamentos.dll
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\obj\Debug\net10.0\Fundamentos.pdb
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\obj\Debug\net10.0\Fundamentos.genruntimeconfig.cache
+C:\Icaro\01codesgit\CSharpDio\Fundamentos\obj\Debug\net10.0\ref\Fundamentos.dll
