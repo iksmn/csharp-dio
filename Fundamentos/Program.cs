@@ -124,13 +124,34 @@ else
     Console.WriteLine("Vou no batalhão outro dia");
 } */
 
-Calculadora calc = new Calculadora();
+// Calculadora calc = new Calculadora();
 
-calc.Somar(10, 31);
-calc.Subtrair(10, 49);
-calc.Multiplicar(15, 15);
-calc.Dividir(2, 2);
-calc.Potencia(3, 3);
-calc.Seno(30);
-calc.Cosseno(30);
-calc.Tangente(30);
+// calc.Somar(10, 31);
+// calc.Subtrair(10, 49);
+// calc.Multiplicar(15, 15);
+// calc.Dividir(2, 2);
+// calc.Potencia(3, 3);
+// calc.Seno(30);
+// calc.Cosseno(30);
+// calc.Tangente(30);
+// calc.RaizQuadrada(9);
+
+
+// int numero = 5;
+
+// for (int contador = 0; contador <= 10; contador++)
+// {
+//     System.Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+// }
+
+int numero = 5;
+int contador = 0;
+int auxiliar = 0;
+
+while (contador <= 10)
+{
+    System.Console.WriteLine($"{auxiliar + 1}* Execução: {numero} x {contador} = {numero*contador} ");
+    contador++;
+    auxiliar++;
+}
+

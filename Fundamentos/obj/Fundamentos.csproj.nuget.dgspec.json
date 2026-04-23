@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\icaro.kossman\\Documents\\HubLab\\CSharpDio\\Fundamentos\\Fundamentos.csproj": {}
+    "c:\\Users\\icaro.kossman\\Documents\\HubLab\\CSharpDio\\Fundamentos\\Fundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\icaro.kossman\\Documents\\HubLab\\CSharpDio\\Fundamentos\\Fundamentos.csproj": {
+    "c:\\Users\\icaro.kossman\\Documents\\HubLab\\CSharpDio\\Fundamentos\\Fundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\icaro.kossman\\Documents\\HubLab\\CSharpDio\\Fundamentos\\Fundamentos.csproj",
+        "projectUniqueName": "c:\\Users\\icaro.kossman\\Documents\\HubLab\\CSharpDio\\Fundamentos\\Fundamentos.csproj",
         "projectName": "Fundamentos",
-        "projectPath": "C:\\Users\\icaro.kossman\\Documents\\HubLab\\CSharpDio\\Fundamentos\\Fundamentos.csproj",
+        "projectPath": "c:\\Users\\icaro.kossman\\Documents\\HubLab\\CSharpDio\\Fundamentos\\Fundamentos.csproj",
         "packagesPath": "C:\\Users\\icaro.kossman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\icaro.kossman\\Documents\\HubLab\\CSharpDio\\Fundamentos\\obj\\",
+        "outputPath": "c:\\Users\\icaro.kossman\\Documents\\HubLab\\CSharpDio\\Fundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
